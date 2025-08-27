@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi! I am Zythelia/JAV.
 
-<!--
-**zythelia/zythelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My pronouns: he/him
+My name: Zythelia/JAV -- Any is fine.
+My favorite case: PascalCase
+My favorite paradigm: OOP
+My favorite class in school: Mathematics
+My age: 13
 
-Here are some ideas to get you started:
+---
+Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lua      ██████████  Expert
+Luau      ██████████  Expert
+JavaScript █     Beginner
+HTML/CSS ██████       Intermediate
