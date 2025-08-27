@@ -6,11 +6,3 @@ My favorite case: PascalCase
 My favorite paradigm: OOP
 My favorite class in school: Mathematics
 My age: 13
-
----
-Languages:
-
-Lua      ██████████  Expert
-Luau      ██████████  Expert
-JavaScript █     Beginner
-HTML/CSS ██████       Intermediate
