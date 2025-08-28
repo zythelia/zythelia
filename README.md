@@ -1,8 +1,6 @@
-Hi! I am Zythelia/JAV.
+🌊 Hi! 🌊
+I code on Roblox Studio and VS Code
+I know Lua/u, HTML, CSS, and I am currently learning **Julia and JavaScript**
+If you have any questions regarding anything, please message me on ROBLOX: Zythelia
 
-My pronouns: he/him
-My name: Zythelia/JAV -- Any is fine.
-My favorite case: PascalCase
-My favorite paradigm: OOP
-My favorite class in school: Mathematics
-My age: 13
+With love, Zythelia ❤️
